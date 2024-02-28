@@ -30,10 +30,10 @@
     <main>
         <section class="fast-links">
             <a href="index.html" class="grid-element" id="grid-1">
-
                 <img src="screenshots/article-marketing-icon-design-vector.jpg">
                  <p>ФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФ</p>
-            </a><a href="index.html" class="grid-element" id="grid-2">
+            </a>
+            <a href="index.html" class="grid-element" id="grid-2">
                 <img src="screenshots/pngtree-document-icon-for-your-project-png-image_1900284.jpg">
                 <p>ФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФ</p>
             </a><a href="index.html" class="grid-element" id="grid-3">
